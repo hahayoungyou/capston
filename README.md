@@ -67,3 +67,8 @@
 - Navicat
 - Pycharm
 - AWS
+
+
++ crawling 코드 활용
+https://github.com/catSirup/naver_kin_crawling/blob/master/project.py
+
